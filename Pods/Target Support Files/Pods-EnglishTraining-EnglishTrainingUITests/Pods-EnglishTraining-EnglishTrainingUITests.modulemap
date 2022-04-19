@@ -1,0 +1,6 @@
+framework module Pods_EnglishTraining_EnglishTrainingUITests {
+  umbrella header "Pods-EnglishTraining-EnglishTrainingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
